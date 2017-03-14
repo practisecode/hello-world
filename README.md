@@ -1,1 +1,6 @@
 # hello-world
+
+HI Everyone!!!
+
+Nagma here, I am new to this GitHub....
+M very excited to start exploring programming languages.... 
